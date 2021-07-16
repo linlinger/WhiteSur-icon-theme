@@ -1,56 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="471px" height="471px" viewBox="0 0 471 471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>返回桌面图标</title>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#57B4F3" offset="0%"></stop>
-            <stop stop-color="#2A5BE5" offset="100%"></stop>
-        </linearGradient>
-        <rect id="path-2" x="40.1176471" y="305" width="391.764706" height="108" rx="25"></rect>
-        <filter x="-2.9%" y="-8.8%" width="105.9%" height="121.3%" filterUnits="objectBoundingBox" id="filter-3">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
-            <feColorMatrix values="0 0 0 0 0.523515585   0 0 0 0 0.775504589   0 0 0 0 0.939297441  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <rect id="path-4" x="85" y="326" width="65" height="65" rx="14"></rect>
-        <filter x="-13.1%" y="-10.0%" width="126.2%" height="126.2%" filterUnits="objectBoundingBox" id="filter-5">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.306933229   0 0 0 0 0.600206874   0 0 0 0 0.794065724  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <rect id="path-6" x="203" y="326" width="65" height="65" rx="14"></rect>
-        <filter x="-13.1%" y="-10.0%" width="126.2%" height="126.2%" filterUnits="objectBoundingBox" id="filter-7">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.306933229   0 0 0 0 0.600206874   0 0 0 0 0.794065724  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <rect id="path-8" x="321" y="326" width="65" height="65" rx="14"></rect>
-        <filter x="-13.1%" y="-10.0%" width="126.2%" height="126.2%" filterUnits="objectBoundingBox" id="filter-9">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.306933229   0 0 0 0 0.600206874   0 0 0 0 0.794065724  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-    </defs>
-    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="返回桌面图标">
-            <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="471" height="471" rx="99"></rect>
-            <g id="矩形">
-                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
-                <use fill-opacity="0.42" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
-            </g>
-            <g id="矩形">
-                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
-            </g>
-            <g id="矩形备份-4">
-                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
-            </g>
-            <g id="矩形备份-5">
-                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
-            </g>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64pt" height="64pt" viewBox="0 0 64 64" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="0.5" y1="0" x2="0.5" y2="1" gradientTransform="matrix(64,0,0,64,0,0)">
+<stop offset="0" style="stop-color:rgb(34.117647%,70.588235%,95.294118%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(16.470588%,35.686275%,89.803922%);stop-opacity:1;"/>
+</linearGradient>
+<image id="image11" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABmJLR0QA/wD/AP+gvaeTAAACDklEQVR4nO3Yz2oTURQG8O+cmzSTaNqiTkUkha4E69KV2IUPoY+gbyC4sAR071rfRQqlS126EAQRF6W20KYkbScz93xuO5OKoGRi6vnt7p/FNx9cDgzgnHPOOeecc84555xzzjnnnHPOOeecc865y0qq6/7WVgDWk2aQrlGWRdAFQxJDEWaS8A+F2IimMYPIUDMeHbd4fPTp29m7Z/fz8/ca5xf9fl+A9QSIN8hkVcXaETJUWBEQrN5P+FtmahKovBVbXOnk/N7prf0A8OsCcPdxoxmkG7XVMxajzY10u87I0/JqZ/8OVFflCjIAx+fPtHQzTReMshyMnc2N9GOdIafp5cP0M5RmqteqZ6UCzhqnTRF0I2RYX7x6EI1DCBer+6UCkqIZwJAgcM7e++8ZLRdhu7pffgJj1RiKgChavTj3oqhSJibZxIdqlOpovDRscuxPFvC/8QJmHWDWSgVkbRJKU5KzCjQt2iTByelWmQLRyJCbMtaWrCZmIIzj6n6pgNa4nYPFCRiS+qLVowFepWJU3S8VMBie5KYcBGXn+c5+t7540/X07YemqF4X4VH1rFTAUvolz7J8ACl2l0wfvH5/cBsXzM558mJ7N+3dW3sUCzuIo3hYPb/gf8DXFsbtRSwsrEiwm0GwCBU1IuiclGEAxWAijFQZ0XTPinxvsJ8N3jzpnc46n3POOfeP+AmllsJiNYwpMQAAAABJRU5ErkJggg=="/>
+<image id="image18" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABmJLR0QA/wD/AP+gvaeTAAABm0lEQVR4nO3Vv04UURzF8e+5OxCQXQGhoTFqYYy1tfGJeAbfytI3MLEyFv5NjBoQQ1QI7Mw9FrvSYabgJoScTzHN/WVycvK7MxAREREREREREREREREREREREREREXEjaezgs+cv125vrW/O19jpxB2ZdSiTxWkdsE+GylEd5ocv9p8etAp81bqxg7M9pu6Hu50nj6RyD7xl1Q5AVl9Vfqrwoet4A9y8AnpWN7uycp9SnwCPEbu62AB6waHkbcwp8KpJ2gZGF6B+ZeZJ3ZP1wOIhaEd2WR4Pgm2LP1jvGmVtYnQBpfSr0mQDNANPZa1bEoCMLabYM+BWs7QNjN8Al2KrFFwMspCWH1EvnkWiUFX+/6brZXTYYWLLNuDLZmxcy+Xn19HoDcBlcOEcM0fqhSteXoFFM3PgXHjeKmwLowswPpF1BPqKvYs4Q/z7CwyyDkz9ZuuoUdYmRhcwcT2u1qdS9FpwirUNvijA8g+q3kL93ChrE6ML+F3PjjfUva919UzFH2VN0aIAiV6uv4Dvc/jSLG1ERERExJX5C5vhmeFKAcuZAAAAAElFTkSuQmCC"/>
+<image id="image25" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABmJLR0QA/wD/AP+gvaeTAAABjElEQVR4nO3Uv2pUQRzF8e+Ze3ddNtlANoraiFqIhZ2lTV7Ht/C5bHwCGxtBEKMg/mFNIEhc9+6dY7FRsLCdIp5POwO/w2HmBxEREREREREREREREREREREREREREVeSWg06fvZiNr05PejUXZ/Yh0hzKN3utI7YF4N0NnpcPX/65GurXH2rQYvb7I/u7/T4YVV3t+BDq/YAsrZV5WxCPSnuXgNXr4A69gd9xz27PC7iEdaR0O/5W8HKlCOVugZetsrVrICOyb7NLYn7hgfCS8zlF2BELIV+qOptq0zQsAB7vAb9HLyQ2QPNrd0OkrHsn8gLi71WmaBlAUUquJhSwAUhXS5hCzAFVEQtrTIBNBumalvFGP/zktndaajZC6Avo2AwDIIBXLF2X0A2MFjeCA3NMtGyAHxRXU8L+oS4AWzQX0twJfPZ5lu7TA0LWG/q+azv3lP0ymYtvAT/KcDoVOIN9odWmaBhAUMZzmfbyTtP6wZzYsoC7QqQ2FLrd4svbPWxVaaIiIiI+J/9AkFAl+uGMh0iAAAAAElFTkSuQmCC"/>
+<image id="image32" width="64" height="64" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABmJLR0QA/wD/AP+gvaeTAAABk0lEQVR4nO3WwWoTURjF8f/5JqmQpgXbIG4EFVy4cOPWJ/BRfB0fxoWv4NKNIEgQoSg1SBFik8w9LlJwIZQGWsqU84NZ3eFw5iwuAxEREREREREREREREREREREREREREXeSbrvAVb1+++4eTA+rG8+64ghpAtVtT1tvsdyYRe/+9P2bVz+umju6qcLXbVXH08m4PXLrnjfxpPB9q40AZG2Efo3c5qPGJ+DuDTAxhzKPJb80egGaCW37yz1wSjGD8Tnw4aq5gxmgjTb7RfcQ8VT2M2CG6QAsNeAI64/VvuySO5gBqmoPM8EcWJrKTKztHSZjy1OkA8H+Trk3U/f69a6SVRIFLguJ7WMhjGSXrZ2+aTADqNmtsI0vec2yLzv/z2AGsKsXXgvWwFq4YRqmCTekjWHtYrVL7mDugKbVsjxegE/keoC8Rlz8B9Bj/wSdyF7skjuYAdy1M1r7atVH5HOZY/C/AdAC2mdT811yhzPA2fJsMx3P99zWwBzVgX3R3+qt9ttN36v3t9ttGhERERHD8BdEXKPeAcMhJQAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear0);" d="M 13.453125 0 L 50.546875 0 C 57.976562 0 64 6.023438 64 13.453125 L 64 50.546875 C 64 57.976562 57.976562 64 50.546875 64 L 13.453125 64 C 6.023438 64 0 57.976562 0 50.546875 L 0 13.453125 C 0 6.023438 6.023438 0 13.453125 0 Z M 13.453125 0 "/>
+<use xlink:href="#image11"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:0.419608;" d="M 8.847656 41.445312 L 55.289062 41.445312 C 57.164062 41.445312 58.683594 42.964844 58.683594 44.839844 L 58.683594 52.722656 C 58.683594 54.597656 57.164062 56.117188 55.289062 56.117188 L 8.847656 56.117188 C 6.972656 56.117188 5.453125 54.597656 5.453125 52.722656 L 5.453125 44.839844 C 5.453125 42.964844 6.972656 41.445312 8.847656 41.445312 Z M 8.847656 41.445312 "/>
+<use xlink:href="#image18"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 13.453125 44.296875 L 18.480469 44.296875 C 19.53125 44.296875 20.382812 45.148438 20.382812 46.199219 L 20.382812 51.226562 C 20.382812 52.277344 19.53125 53.128906 18.480469 53.128906 L 13.453125 53.128906 C 12.402344 53.128906 11.550781 52.277344 11.550781 51.226562 L 11.550781 46.199219 C 11.550781 45.148438 12.402344 44.296875 13.453125 44.296875 Z M 13.453125 44.296875 "/>
+<use xlink:href="#image25"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 29.484375 44.296875 L 34.515625 44.296875 C 35.5625 44.296875 36.417969 45.148438 36.417969 46.199219 L 36.417969 51.226562 C 36.417969 52.277344 35.5625 53.128906 34.515625 53.128906 L 29.484375 53.128906 C 28.4375 53.128906 27.582031 52.277344 27.582031 51.226562 L 27.582031 46.199219 C 27.582031 45.148438 28.4375 44.296875 29.484375 44.296875 Z M 29.484375 44.296875 "/>
+<use xlink:href="#image32"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 45.519531 44.296875 L 50.546875 44.296875 C 51.597656 44.296875 52.449219 45.148438 52.449219 46.199219 L 52.449219 51.226562 C 52.449219 52.277344 51.597656 53.128906 50.546875 53.128906 L 45.519531 53.128906 C 44.46875 53.128906 43.617188 52.277344 43.617188 51.226562 L 43.617188 46.199219 C 43.617188 45.148438 44.46875 44.296875 45.519531 44.296875 Z M 45.519531 44.296875 "/>
+</g>
 </svg>

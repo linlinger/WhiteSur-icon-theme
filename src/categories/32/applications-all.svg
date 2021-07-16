@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="471px" height="471px" viewBox="0 0 471 471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>launchpad</title>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FFE800" offset="0%"></stop>
-            <stop stop-color="#FB8D08" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="launchpad">
-            <rect id="矩形备份-6" fill="url(#linearGradient-1)" x="0" y="0" width="471" height="471" rx="99"></rect>
-            <rect id="矩形" stroke="#FFFFFF" stroke-width="15" x="87.0134225" y="85.5" width="125.877984" height="125.877984" rx="33"></rect>
-            <rect id="矩形备份-8" fill="#FFE301" x="79.5134225" y="252.122016" width="140.877984" height="140.877984" rx="33"></rect>
-            <rect id="矩形备份-7" stroke="#FFFFFF" stroke-width="15" x="257.867459" y="85.5" width="125.877984" height="125.877984" rx="33"></rect>
-            <rect id="矩形备份-9" stroke="#FFFFFF" stroke-width="15" x="257.867459" y="259.622016" width="125.877984" height="125.877984" rx="33"></rect>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64pt" height="64pt" viewBox="0 0 64 64" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="0.5" y1="0" x2="0.5" y2="1" gradientTransform="matrix(64,0,0,64,0,0)">
+<stop offset="0" style="stop-color:rgb(100%,90.980392%,0%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(98.431373%,55.294118%,3.137255%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear0);" d="M 13.453125 0 L 50.546875 0 C 57.976562 0 64 6.023438 64 13.453125 L 64 50.546875 C 64 57.976562 57.976562 64 50.546875 64 L 13.453125 64 C 6.023438 64 0 57.976562 0 50.546875 L 0 13.453125 C 0 6.023438 6.023438 0 13.453125 0 Z M 13.453125 0 "/>
+<path style="fill:none;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 120.021057 85.495239 L 179.902222 85.495239 C 198.128174 85.495239 212.904419 100.271484 212.904419 118.497437 L 212.904419 178.378601 C 212.904419 196.604553 198.128174 211.380798 179.902222 211.380798 L 120.021057 211.380798 C 101.795105 211.380798 87.01886 196.604553 87.01886 178.378601 L 87.01886 118.497437 C 87.01886 100.271484 101.795105 85.495239 120.021057 85.495239 Z M 120.021057 85.495239 " transform="matrix(0.135881,0,0,0.135881,0,0)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,89.019608%,0.392157%);fill-opacity:1;" d="M 15.289062 34.257812 L 25.464844 34.257812 C 27.9375 34.257812 29.945312 36.265625 29.945312 38.742188 L 29.945312 48.917969 C 29.945312 51.394531 27.9375 53.402344 25.464844 53.402344 L 15.289062 53.402344 C 12.8125 53.402344 10.804688 51.394531 10.804688 48.917969 L 10.804688 38.742188 C 10.804688 36.265625 12.8125 34.257812 15.289062 34.257812 Z M 15.289062 34.257812 "/>
+<path style="fill:none;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 290.867798 85.495239 L 350.748962 85.495239 C 368.974915 85.495239 383.75116 100.271484 383.75116 118.497437 L 383.75116 178.378601 C 383.75116 196.604553 368.974915 211.380798 350.748962 211.380798 L 290.867798 211.380798 C 272.641846 211.380798 257.865601 196.604553 257.865601 178.378601 L 257.865601 118.497437 C 257.865601 100.271484 272.641846 85.495239 290.867798 85.495239 Z M 290.867798 85.495239 " transform="matrix(0.135881,0,0,0.135881,0,0)"/>
+<path style="fill:none;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:4;" d="M 290.867798 259.619202 L 350.748962 259.619202 C 368.974915 259.619202 383.75116 274.395447 383.75116 292.621399 L 383.75116 352.502563 C 383.75116 370.728516 368.974915 385.504761 350.748962 385.504761 L 290.867798 385.504761 C 272.641846 385.504761 257.865601 370.728516 257.865601 352.502563 L 257.865601 292.621399 C 257.865601 274.395447 272.641846 259.619202 290.867798 259.619202 Z M 290.867798 259.619202 " transform="matrix(0.135881,0,0,0.135881,0,0)"/>
+</g>
 </svg>
